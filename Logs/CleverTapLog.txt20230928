@@ -1,0 +1,154 @@
+2023-09-28 13:38:01,140, [1], INFO , UploadRealTimeData : Recommendation_Engine- Start9/28/2023 1:38:01 PM
+2023-09-28 13:39:44,222, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/28/2023 1:39:44 PM
+2023-09-28 13:39:50,941, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/28/2023 1:39:50 PM
+2023-09-28 13:57:18,545, [1], INFO , UploadRealTimeData : Recommendation_Engine- Start9/28/2023 1:57:18 PM
+2023-09-28 13:58:13,865, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/28/2023 1:58:13 PM
+2023-09-28 13:59:46,600, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/28/2023 1:59:46 PM
+2023-09-28 14:01:00,996, [1], INFO , UploadRealTimeData : Recommendation_Engine- Start9/28/2023 2:01:00 PM
+2023-09-28 14:01:46,763, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/28/2023 2:01:46 PM
+2023-09-28 17:36:09,755, [1], INFO , UploadRealTimeData : Recommendation_Engine- Start9/28/2023 5:36:09 PM
+2023-09-28 17:37:49,991, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/28/2023 5:37:49 PM
+2023-09-28 17:38:19,881, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/28/2023 5:38:19 PM
+2023-09-28 17:38:31,319, [1], INFO , UploadRealTimeData : Response : 
+2023-09-28 17:38:45,520, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/28/2023 5:38:45 PM
+2023-09-28 17:38:46,778, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/28/2023 5:38:46 PM
+2023-09-28 17:38:46,779, [1], INFO , UploadRealTimeData : Response : 
+2023-09-28 17:38:55,479, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/28/2023 5:38:55 PM
+2023-09-28 17:38:55,520, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/28/2023 5:38:55 PM
+2023-09-28 17:38:55,521, [1], INFO , UploadRealTimeData : Response : 
+2023-09-28 17:39:06,351, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/28/2023 5:39:06 PM
+2023-09-28 17:39:06,389, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/28/2023 5:39:06 PM
+2023-09-28 17:39:06,389, [1], INFO , UploadRealTimeData : Response : 
+2023-09-28 17:39:19,268, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/28/2023 5:39:19 PM
+2023-09-28 17:39:19,307, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/28/2023 5:39:19 PM
+2023-09-28 17:39:19,308, [1], INFO , UploadRealTimeData : Response : 
+2023-09-28 17:39:34,279, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/28/2023 5:39:34 PM
+2023-09-28 17:39:34,317, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/28/2023 5:39:34 PM
+2023-09-28 17:39:34,318, [1], INFO , UploadRealTimeData : Response : 
+2023-09-28 17:39:52,323, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/28/2023 5:39:52 PM
+2023-09-28 17:39:52,387, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/28/2023 5:39:52 PM
+2023-09-28 17:39:52,389, [1], INFO , UploadRealTimeData : Response : 
+2023-09-28 17:40:12,654, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/28/2023 5:40:12 PM
+2023-09-28 17:40:12,701, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/28/2023 5:40:12 PM
+2023-09-28 17:40:12,702, [1], INFO , UploadRealTimeData : Response : 
+2023-09-28 17:40:35,154, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/28/2023 5:40:35 PM
+2023-09-28 17:40:35,203, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/28/2023 5:40:35 PM
+2023-09-28 17:40:35,203, [1], INFO , UploadRealTimeData : Response : 
+2023-09-28 17:40:59,828, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/28/2023 5:40:59 PM
+2023-09-28 17:40:59,874, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/28/2023 5:40:59 PM
+2023-09-28 17:40:59,874, [1], INFO , UploadRealTimeData : Response : 
+2023-09-28 17:41:26,496, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/28/2023 5:41:26 PM
+2023-09-28 17:41:26,549, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/28/2023 5:41:26 PM
+2023-09-28 17:41:26,549, [1], INFO , UploadRealTimeData : Response : 
+2023-09-28 17:41:55,457, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/28/2023 5:41:55 PM
+2023-09-28 17:41:55,502, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/28/2023 5:41:55 PM
+2023-09-28 17:41:55,503, [1], INFO , UploadRealTimeData : Response : 
+2023-09-28 17:42:27,673, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/28/2023 5:42:27 PM
+2023-09-28 17:42:27,732, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/28/2023 5:42:27 PM
+2023-09-28 17:42:27,733, [1], INFO , UploadRealTimeData : Response : 
+2023-09-28 17:42:57,809, [1], ERROR, CommonRepository : GetPageData Method ErrorExecution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+2023-09-28 17:43:27,854, [1], ERROR, CommonRepository : GetPageData Method ErrorExecution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+2023-09-28 17:43:57,912, [1], ERROR, CommonRepository : GetPageData Method ErrorExecution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+2023-09-28 17:44:28,081, [1], ERROR, CommonRepository : GetPageData Method ErrorExecution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+2023-09-28 17:44:58,141, [1], ERROR, CommonRepository : GetPageData Method ErrorExecution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+2023-09-28 17:45:28,203, [1], ERROR, CommonRepository : GetPageData Method ErrorExecution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+2023-09-28 17:48:52,461, [1], INFO , UploadRealTimeData : Recommendation_Engine- Start9/28/2023 5:48:52 PM
+2023-09-28 17:55:19,283, [1], INFO , UploadRealTimeData : Recommendation_Engine- Start9/28/2023 5:55:18 PM
+2023-09-28 17:57:32,337, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/28/2023 5:57:32 PM
+2023-09-28 17:58:42,271, [1], INFO , UploadRealTimeData : Recommendation_Engine- Start9/28/2023 5:58:42 PM
+2023-09-28 18:01:22,964, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/28/2023 6:01:22 PM
+2023-09-28 18:01:41,574, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/28/2023 6:01:41 PM
+2023-09-28 18:03:37,901, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/28/2023 6:03:37 PM
+2023-09-28 18:03:37,991, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/28/2023 6:03:37 PM
+2023-09-28 18:03:46,807, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/28/2023 6:03:46 PM
+2023-09-28 18:03:46,887, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/28/2023 6:03:46 PM
+2023-09-28 18:03:57,559, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/28/2023 6:03:57 PM
+2023-09-28 18:03:57,628, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/28/2023 6:03:57 PM
+2023-09-28 18:04:10,729, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/28/2023 6:04:10 PM
+2023-09-28 18:04:10,798, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/28/2023 6:04:10 PM
+2023-09-28 18:04:25,936, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/28/2023 6:04:25 PM
+2023-09-28 18:04:26,009, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/28/2023 6:04:26 PM
+2023-09-28 18:04:42,976, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/28/2023 6:04:42 PM
+2023-09-28 18:04:43,046, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/28/2023 6:04:43 PM
+2023-09-28 18:05:03,417, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/28/2023 6:05:03 PM
+2023-09-28 18:05:03,488, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/28/2023 6:05:03 PM
+2023-09-28 18:05:27,120, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/28/2023 6:05:27 PM
+2023-09-28 18:05:27,189, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/28/2023 6:05:27 PM
+2023-09-28 18:05:52,366, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/28/2023 6:05:52 PM
+2023-09-28 18:05:52,455, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/28/2023 6:05:52 PM
+2023-09-28 18:06:20,700, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/28/2023 6:06:20 PM
+2023-09-28 18:06:20,766, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/28/2023 6:06:20 PM
+2023-09-28 18:06:51,448, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/28/2023 6:06:51 PM
+2023-09-28 18:06:51,536, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/28/2023 6:06:51 PM
+2023-09-28 18:07:24,984, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/28/2023 6:07:24 PM
+2023-09-28 18:07:25,067, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/28/2023 6:07:25 PM
+2023-09-28 18:08:00,694, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/28/2023 6:08:00 PM
+2023-09-28 18:08:00,767, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/28/2023 6:08:00 PM
+2023-09-28 18:08:39,054, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/28/2023 6:08:39 PM
+2023-09-28 18:08:39,124, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/28/2023 6:08:39 PM
+2023-09-28 18:09:19,574, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/28/2023 6:09:19 PM
+2023-09-28 18:09:19,639, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/28/2023 6:09:19 PM
+2023-09-28 18:10:02,917, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/28/2023 6:10:02 PM
+2023-09-28 18:10:03,011, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/28/2023 6:10:03 PM
+2023-09-28 18:10:48,534, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/28/2023 6:10:48 PM
+2023-09-28 18:10:48,608, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/28/2023 6:10:48 PM
+2023-09-28 18:11:37,356, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/28/2023 6:11:37 PM
+2023-09-28 18:11:37,431, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/28/2023 6:11:37 PM
+2023-09-28 18:12:27,898, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/28/2023 6:12:27 PM
+2023-09-28 18:12:27,980, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/28/2023 6:12:27 PM
+2023-09-28 18:13:20,724, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/28/2023 6:13:20 PM
+2023-09-28 18:13:20,835, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/28/2023 6:13:20 PM
+2023-09-28 18:14:17,705, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/28/2023 6:14:17 PM
+2023-09-28 18:14:17,763, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/28/2023 6:14:17 PM
+2023-09-28 18:15:22,211, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/28/2023 6:15:22 PM
+2023-09-28 18:15:22,370, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/28/2023 6:15:22 PM
+2023-09-28 18:17:16,406, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/28/2023 6:17:16 PM
+2023-09-28 18:17:16,478, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/28/2023 6:17:16 PM
+2023-09-28 18:19:08,341, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/28/2023 6:19:08 PM
+2023-09-28 18:19:08,421, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/28/2023 6:19:08 PM
+2023-09-28 18:20:14,970, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/28/2023 6:20:14 PM
+2023-09-28 18:20:15,043, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/28/2023 6:20:15 PM
+2023-09-28 18:21:24,170, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/28/2023 6:21:24 PM
+2023-09-28 18:21:24,245, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/28/2023 6:21:24 PM
+2023-09-28 18:22:35,689, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/28/2023 6:22:35 PM
+2023-09-28 18:22:35,787, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/28/2023 6:22:35 PM
+2023-09-28 18:23:49,741, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/28/2023 6:23:49 PM
+2023-09-28 18:23:49,823, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/28/2023 6:23:49 PM
+2023-09-28 18:25:06,586, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/28/2023 6:25:06 PM
+2023-09-28 18:25:06,680, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/28/2023 6:25:06 PM
+2023-09-28 18:26:26,023, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/28/2023 6:26:26 PM
+2023-09-28 18:26:26,100, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/28/2023 6:26:26 PM
+2023-09-28 18:27:47,147, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/28/2023 6:27:47 PM
+2023-09-28 18:27:47,227, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/28/2023 6:27:47 PM
+2023-09-28 18:29:10,572, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/28/2023 6:29:10 PM
+2023-09-28 18:29:10,647, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/28/2023 6:29:10 PM
+2023-09-28 18:30:36,768, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/28/2023 6:30:36 PM
+2023-09-28 18:30:36,851, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/28/2023 6:30:36 PM
+2023-09-28 18:32:05,942, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/28/2023 6:32:05 PM
+2023-09-28 18:32:06,021, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/28/2023 6:32:06 PM
+2023-09-28 18:33:37,288, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/28/2023 6:33:37 PM
+2023-09-28 18:33:37,379, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/28/2023 6:33:37 PM
+2023-09-28 18:35:12,742, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/28/2023 6:35:12 PM
+2023-09-28 18:35:12,823, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/28/2023 6:35:12 PM
+2023-09-28 18:36:50,209, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/28/2023 6:36:50 PM
+2023-09-28 18:36:50,304, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/28/2023 6:36:50 PM
+2023-09-28 18:38:29,854, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/28/2023 6:38:29 PM
+2023-09-28 18:38:29,930, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/28/2023 6:38:29 PM
+2023-09-28 18:40:12,808, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/28/2023 6:40:12 PM
+2023-09-28 18:40:12,898, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/28/2023 6:40:12 PM
+2023-09-28 18:41:57,618, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/28/2023 6:41:57 PM
+2023-09-28 18:41:57,721, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/28/2023 6:41:57 PM
+2023-09-28 18:43:44,846, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/28/2023 6:43:44 PM
+2023-09-28 18:43:44,948, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/28/2023 6:43:44 PM
+2023-09-28 18:45:34,338, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/28/2023 6:45:34 PM
+2023-09-28 18:45:34,607, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/28/2023 6:45:34 PM
+2023-09-28 18:47:27,204, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/28/2023 6:47:27 PM
+2023-09-28 18:47:27,451, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/28/2023 6:47:27 PM
+2023-09-28 18:49:21,791, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/28/2023 6:49:21 PM
+2023-09-28 18:49:21,864, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/28/2023 6:49:21 PM
+2023-09-28 18:51:18,012, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/28/2023 6:51:18 PM
+2023-09-28 18:51:18,083, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/28/2023 6:51:18 PM
+2023-09-28 18:53:17,424, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/28/2023 6:53:17 PM
+2023-09-28 18:53:17,626, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/28/2023 6:53:17 PM
+2023-09-28 18:55:19,801, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/28/2023 6:55:19 PM
+2023-09-28 18:55:19,877, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/28/2023 6:55:19 PM

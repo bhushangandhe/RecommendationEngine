@@ -1,0 +1,87 @@
+2023-09-29 10:08:55,372, [1], INFO , UploadRealTimeData : Recommendation_Engine- Start9/29/2023 10:08:55 AM
+2023-09-29 10:09:38,165, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/29/2023 10:09:38 AM
+2023-09-29 10:09:39,014, [1], INFO , CleverTapAPICall : UploadUserProfile : response:RestSharp.RestResponse 9/29/2023 10:09:39 AM
+2023-09-29 10:10:14,978, [1], INFO , CleverTapAPICall : UploadUserProfile : response:{ "status" : "success" , "processed" : 1000 , "unprocessed" : [ ]} 9/29/2023 10:10:14 AM
+2023-09-29 10:10:16,515, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/29/2023 10:10:16 AM
+2023-09-29 10:10:59,530, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/29/2023 10:10:59 AM
+2023-09-29 10:10:59,658, [1], INFO , CleverTapAPICall : UploadUserProfile : response:{ "status" : "success" , "processed" : 1000 , "unprocessed" : [ ]} 9/29/2023 10:10:59 AM
+2023-09-29 10:11:13,332, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/29/2023 10:11:13 AM
+2023-09-29 10:11:22,324, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/29/2023 10:11:22 AM
+2023-09-29 10:11:22,427, [1], INFO , CleverTapAPICall : UploadUserProfile : response:{ "status" : "success" , "processed" : 1000 , "unprocessed" : [ ]} 9/29/2023 10:11:22 AM
+2023-09-29 10:11:22,427, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/29/2023 10:11:22 AM
+2023-09-29 10:11:33,771, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/29/2023 10:11:33 AM
+2023-09-29 10:11:33,853, [1], INFO , CleverTapAPICall : UploadUserProfile : response:{ "status" : "success" , "processed" : 1000 , "unprocessed" : [ ]} 9/29/2023 10:11:33 AM
+2023-09-29 10:11:33,853, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/29/2023 10:11:33 AM
+2023-09-29 10:11:48,120, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/29/2023 10:11:48 AM
+2023-09-29 10:11:48,215, [1], INFO , CleverTapAPICall : UploadUserProfile : response:{ "status" : "success" , "processed" : 1000 , "unprocessed" : [ ]} 9/29/2023 10:11:48 AM
+2023-09-29 10:11:48,215, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/29/2023 10:11:48 AM
+2023-09-29 10:12:05,576, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/29/2023 10:12:05 AM
+2023-09-29 10:12:05,672, [1], INFO , CleverTapAPICall : UploadUserProfile : response:{ "status" : "success" , "processed" : 1000 , "unprocessed" : [ ]} 9/29/2023 10:12:05 AM
+2023-09-29 10:12:05,672, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/29/2023 10:12:05 AM
+2023-09-29 10:12:26,127, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/29/2023 10:12:26 AM
+2023-09-29 10:12:26,239, [1], INFO , CleverTapAPICall : UploadUserProfile : response:{ "status" : "success" , "processed" : 1000 , "unprocessed" : [ ]} 9/29/2023 10:12:26 AM
+2023-09-29 10:12:26,239, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/29/2023 10:12:26 AM
+2023-09-29 10:12:48,718, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/29/2023 10:12:48 AM
+2023-09-29 10:12:48,840, [1], INFO , CleverTapAPICall : UploadUserProfile : response:{ "status" : "success" , "processed" : 1000 , "unprocessed" : [ ]} 9/29/2023 10:12:48 AM
+2023-09-29 10:12:48,840, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/29/2023 10:12:48 AM
+2023-09-29 10:13:13,506, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/29/2023 10:13:13 AM
+2023-09-29 10:13:19,844, [1], INFO , CleverTapAPICall : UploadUserProfile : response:{ "status" : "success" , "processed" : 1000 , "unprocessed" : [ ]} 9/29/2023 10:13:19 AM
+2023-09-29 10:13:19,847, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/29/2023 10:13:19 AM
+2023-09-29 10:13:47,413, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/29/2023 10:13:47 AM
+2023-09-29 10:13:47,548, [1], INFO , CleverTapAPICall : UploadUserProfile : response:{ "status" : "success" , "processed" : 1000 , "unprocessed" : [ ]} 9/29/2023 10:13:47 AM
+2023-09-29 10:13:47,548, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/29/2023 10:13:47 AM
+2023-09-29 10:14:17,715, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/29/2023 10:14:17 AM
+2023-09-29 10:14:17,854, [1], INFO , CleverTapAPICall : UploadUserProfile : response:{ "status" : "success" , "processed" : 1000 , "unprocessed" : [ ]} 9/29/2023 10:14:17 AM
+2023-09-29 10:14:17,854, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/29/2023 10:14:17 AM
+2023-09-29 10:14:50,684, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/29/2023 10:14:50 AM
+2023-09-29 10:14:50,849, [1], INFO , CleverTapAPICall : UploadUserProfile : response:{ "status" : "success" , "processed" : 1000 , "unprocessed" : [ ]} 9/29/2023 10:14:50 AM
+2023-09-29 10:14:50,849, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/29/2023 10:14:50 AM
+2023-09-29 10:15:26,287, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/29/2023 10:15:26 AM
+2023-09-29 10:15:26,422, [1], INFO , CleverTapAPICall : UploadUserProfile : response:{ "status" : "success" , "processed" : 1000 , "unprocessed" : [ ]} 9/29/2023 10:15:26 AM
+2023-09-29 10:15:26,423, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/29/2023 10:15:26 AM
+2023-09-29 10:16:03,910, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/29/2023 10:16:03 AM
+2023-09-29 10:16:04,021, [1], INFO , CleverTapAPICall : UploadUserProfile : response:{ "status" : "success" , "processed" : 1000 , "unprocessed" : [ ]} 9/29/2023 10:16:04 AM
+2023-09-29 10:16:04,021, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/29/2023 10:16:04 AM
+2023-09-29 10:16:44,371, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/29/2023 10:16:44 AM
+2023-09-29 10:16:44,501, [1], INFO , CleverTapAPICall : UploadUserProfile : response:{ "status" : "success" , "processed" : 1000 , "unprocessed" : [ ]} 9/29/2023 10:16:44 AM
+2023-09-29 10:16:44,501, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/29/2023 10:16:44 AM
+2023-09-29 10:17:26,333, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/29/2023 10:17:26 AM
+2023-09-29 10:17:26,472, [1], INFO , CleverTapAPICall : UploadUserProfile : response:{ "status" : "success" , "processed" : 1000 , "unprocessed" : [ ]} 9/29/2023 10:17:26 AM
+2023-09-29 10:17:26,472, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/29/2023 10:17:26 AM
+2023-09-29 10:18:10,696, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/29/2023 10:18:10 AM
+2023-09-29 10:18:10,776, [1], INFO , CleverTapAPICall : UploadUserProfile : response:{ "status" : "success" , "processed" : 1000 , "unprocessed" : [ ]} 9/29/2023 10:18:10 AM
+2023-09-29 10:18:10,776, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/29/2023 10:18:10 AM
+2023-09-29 10:18:58,017, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/29/2023 10:18:58 AM
+2023-09-29 10:18:58,113, [1], INFO , CleverTapAPICall : UploadUserProfile : response:{ "status" : "success" , "processed" : 1000 , "unprocessed" : [ ]} 9/29/2023 10:18:58 AM
+2023-09-29 10:18:58,113, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/29/2023 10:18:58 AM
+2023-09-29 10:19:48,883, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/29/2023 10:19:48 AM
+2023-09-29 10:19:49,069, [1], INFO , CleverTapAPICall : UploadUserProfile : response:{ "status" : "success" , "processed" : 1000 , "unprocessed" : [ ]} 9/29/2023 10:19:49 AM
+2023-09-29 10:19:49,070, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/29/2023 10:19:49 AM
+2023-09-29 10:20:42,737, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/29/2023 10:20:42 AM
+2023-09-29 10:20:42,880, [1], INFO , CleverTapAPICall : UploadUserProfile : response:{ "status" : "success" , "processed" : 1000 , "unprocessed" : [ ]} 9/29/2023 10:20:42 AM
+2023-09-29 10:20:42,880, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/29/2023 10:20:42 AM
+2023-09-29 10:21:38,694, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/29/2023 10:21:38 AM
+2023-09-29 10:21:38,817, [1], INFO , CleverTapAPICall : UploadUserProfile : response:{ "status" : "success" , "processed" : 1000 , "unprocessed" : [ ]} 9/29/2023 10:21:38 AM
+2023-09-29 10:21:38,817, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/29/2023 10:21:38 AM
+2023-09-29 10:22:37,871, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/29/2023 10:22:37 AM
+2023-09-29 10:22:38,000, [1], INFO , CleverTapAPICall : UploadUserProfile : response:{ "status" : "success" , "processed" : 1000 , "unprocessed" : [ ]} 9/29/2023 10:22:38 AM
+2023-09-29 10:22:38,000, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/29/2023 10:22:38 AM
+2023-09-29 11:40:42,539, [1], INFO , UploadRealTimeData : Recommendation_Engine- Start9/29/2023 11:40:42 AM
+2023-09-29 11:41:56,815, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/29/2023 11:41:56 AM
+2023-09-29 11:41:57,175, [1], INFO , CleverTapAPICall : UploadUserProfile : response:{ "status" : "success" , "processed" : 1000 , "unprocessed" : [ ]} 9/29/2023 11:41:57 AM
+2023-09-29 11:41:57,175, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/29/2023 11:41:57 AM
+2023-09-29 11:43:29,713, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/29/2023 11:43:29 AM
+2023-09-29 11:43:29,792, [1], INFO , CleverTapAPICall : UploadUserProfile : response:{ "status" : "success" , "processed" : 1000 , "unprocessed" : [ ]} 9/29/2023 11:43:29 AM
+2023-09-29 11:43:29,792, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/29/2023 11:43:29 AM
+2023-09-29 11:43:40,300, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/29/2023 11:43:40 AM
+2023-09-29 11:43:40,361, [1], INFO , CleverTapAPICall : UploadUserProfile : response:{ "status" : "success" , "processed" : 1000 , "unprocessed" : [ ]} 9/29/2023 11:43:40 AM
+2023-09-29 11:43:40,361, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/29/2023 11:43:40 AM
+2023-09-29 11:43:56,293, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/29/2023 11:43:56 AM
+2023-09-29 11:43:56,352, [1], INFO , CleverTapAPICall : UploadUserProfile : response:{ "status" : "success" , "processed" : 1000 , "unprocessed" : [ ]} 9/29/2023 11:43:56 AM
+2023-09-29 11:43:56,352, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/29/2023 11:43:56 AM
+2023-09-29 14:28:53,939, [1], INFO , UploadRealTimeData : Recommendation_Engine- Start9/29/2023 2:28:53 PM
+2023-09-29 14:29:36,959, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 9/29/2023 2:29:36 PM
+2023-09-29 14:29:37,598, [1], INFO , CleverTapAPICall : UploadUserProfile : response:{ "status" : "success" , "processed" : 22 , "unprocessed" : [ ]} 9/29/2023 2:29:37 PM
+2023-09-29 14:29:37,598, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 9/29/2023 2:29:37 PM
+2023-09-29 14:29:59,623, [1], INFO , UploadRealTimeData(Recommendation_Engine) - END9/29/2023 2:29:59 PM
+2023-09-29 14:30:01,442, [1], ERROR, Common : UploadRealTimeData: LoopCount 1 Flag:Recommendation_Engine - errorFailure sending mail.

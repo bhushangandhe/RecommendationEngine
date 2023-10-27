@@ -1,0 +1,288 @@
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\RecommendationEngine.exe.config
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\RecommendationEngine.exe
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\RecommendationEngine.pdb
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\netstandard.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.AppContext.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Collections.Concurrent.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Collections.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Collections.NonGeneric.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Collections.Specialized.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.ComponentModel.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Console.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Data.Common.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Diagnostics.Debug.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Diagnostics.Process.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Diagnostics.Tools.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Drawing.Primitives.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Dynamic.Runtime.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Globalization.Calendars.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Globalization.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Globalization.Extensions.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.IO.Compression.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.IO.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.IO.FileSystem.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.IO.Pipes.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Linq.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Linq.Expressions.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Linq.Parallel.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Linq.Queryable.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Net.Http.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Net.NameResolution.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Net.NetworkInformation.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Net.Ping.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Net.Primitives.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Net.Requests.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Net.Security.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Net.Sockets.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Net.WebSockets.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.ObjectModel.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Reflection.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Reflection.Extensions.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Reflection.Primitives.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Resources.Reader.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Resources.ResourceManager.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Resources.Writer.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Runtime.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Runtime.Extensions.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Runtime.Handles.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Runtime.InteropServices.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Runtime.Numerics.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Security.Claims.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Security.Principal.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Security.SecureString.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Text.Encoding.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Text.RegularExpressions.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Threading.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Threading.Overlapped.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Threading.Tasks.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Threading.Thread.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Threading.ThreadPool.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Threading.Timer.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.ValueTuple.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Xml.XDocument.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Xml.XmlDocument.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Xml.XPath.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\log4net.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\Newtonsoft.Json.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\Quartz.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\RestSharp.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Buffers.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Memory.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Numerics.Vectors.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Security.AccessControl.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Security.Permissions.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Security.Principal.Windows.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Text.Encodings.Web.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Text.Json.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\log4net.xml
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\Newtonsoft.Json.xml
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\Quartz.xml
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\RestSharp.xml
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Buffers.xml
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Memory.xml
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Numerics.Vectors.xml
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Security.AccessControl.xml
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Security.Permissions.xml
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Security.Principal.Windows.xml
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Text.Encodings.Web.xml
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Text.Json.xml
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\obj\Debug\RecommendationEngine.csproj.AssemblyReference.cache
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\obj\Debug\RecommendationEngine.csproj.SuggestedBindingRedirects.cache
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\obj\Debug\RecommendationEngine.exe.config
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\obj\Debug\RecommendationEngine.ProjectInstaller.resources
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\obj\Debug\RecommendationEngine.csproj.GenerateResource.cache
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\obj\Debug\RecommendationEngine.csproj.CoreCompileInputs.cache
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\obj\Debug\RecommendationEngine.csproj.CopyComplete
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\obj\Debug\RecommendationEngine.exe
+D:\Bhushan_Gandhe\RecommendationEngine\RecommendationEngine\obj\Debug\RecommendationEngine.pdb
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\RecommendationEngine.exe.config
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\RecommendationEngine.exe
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\RecommendationEngine.pdb
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\netstandard.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.AppContext.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Collections.Concurrent.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Collections.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Collections.NonGeneric.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Collections.Specialized.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.ComponentModel.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Console.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Data.Common.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Diagnostics.Debug.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Diagnostics.Process.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Diagnostics.Tools.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Drawing.Primitives.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Dynamic.Runtime.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Globalization.Calendars.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Globalization.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Globalization.Extensions.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.IO.Compression.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.IO.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.IO.FileSystem.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.IO.Pipes.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Linq.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Linq.Expressions.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Linq.Parallel.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Linq.Queryable.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Net.Http.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Net.NameResolution.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Net.NetworkInformation.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Net.Ping.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Net.Primitives.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Net.Requests.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Net.Security.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Net.Sockets.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Net.WebSockets.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.ObjectModel.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Reflection.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Reflection.Extensions.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Reflection.Primitives.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Resources.Reader.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Resources.ResourceManager.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Resources.Writer.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Runtime.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Runtime.Extensions.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Runtime.Handles.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Runtime.InteropServices.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Runtime.Numerics.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Security.Claims.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Security.Principal.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Security.SecureString.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Text.Encoding.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Text.RegularExpressions.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Threading.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Threading.Overlapped.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Threading.Tasks.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Threading.Thread.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Threading.ThreadPool.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Threading.Timer.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.ValueTuple.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Xml.XDocument.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Xml.XmlDocument.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Xml.XPath.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\log4net.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\Newtonsoft.Json.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\Quartz.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\RestSharp.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Buffers.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Memory.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Numerics.Vectors.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Security.AccessControl.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Security.Permissions.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Security.Principal.Windows.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Text.Encodings.Web.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Text.Json.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\log4net.xml
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\Newtonsoft.Json.xml
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\Quartz.xml
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\RestSharp.xml
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Buffers.xml
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Memory.xml
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Numerics.Vectors.xml
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Security.AccessControl.xml
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Security.Permissions.xml
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Security.Principal.Windows.xml
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Text.Encodings.Web.xml
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Text.Json.xml
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\obj\Debug\RecommendationEngine.csproj.AssemblyReference.cache
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\obj\Debug\RecommendationEngine.csproj.SuggestedBindingRedirects.cache
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\obj\Debug\RecommendationEngine.exe.config
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\obj\Debug\RecommendationEngine.ProjectInstaller.resources
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\obj\Debug\RecommendationEngine.csproj.GenerateResource.cache
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\obj\Debug\RecommendationEngine.csproj.CoreCompileInputs.cache
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\obj\Debug\RecommendationEngine.csproj.CopyComplete
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\obj\Debug\RecommendationEngine.exe
+D:\Bhushan Gandhe\RecommendationEngine\RecommendationEngine\obj\Debug\RecommendationEngine.pdb

@@ -1,0 +1,12 @@
+2023-10-10 10:27:28,290, [1], INFO , UploadRealTimeData : Recommendation_Engine- Start10/10/2023 10:27:28 AM
+2023-10-10 10:27:55,853, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 10/10/2023 10:27:55 AM
+2023-10-10 10:27:56,606, [1], INFO , CleverTapAPICall : UploadUserProfile : response:{ "status" : "success" , "processed" : 22 , "unprocessed" : [ ]} 10/10/2023 10:27:56 AM
+2023-10-10 10:27:56,606, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 10/10/2023 10:27:56 AM
+2023-10-10 10:28:10,447, [1], INFO , UploadRealTimeData(Recommendation_Engine) - END10/10/2023 10:28:10 AM
+2023-10-10 10:28:14,138, [1], ERROR, Common : UploadRealTimeData: LoopCount 1 Flag:Recommendation_Engine - errorFailure sending mail.
+2023-10-10 10:30:12,679, [1], INFO , UploadRealTimeData : Recommendation_Engine- Start10/10/2023 10:30:12 AM
+2023-10-10 10:30:29,043, [1], INFO , CleverTapAPICall : UploadUserProfile : API START :- 10/10/2023 10:30:29 AM
+2023-10-10 10:30:29,493, [1], INFO , CleverTapAPICall : UploadUserProfile : response:{ "status" : "success" , "processed" : 22 , "unprocessed" : [ ]} 10/10/2023 10:30:29 AM
+2023-10-10 10:30:29,493, [1], INFO , CleverTapAPICall : UploadUserProfile : API END :- 10/10/2023 10:30:29 AM
+2023-10-10 10:30:42,208, [1], INFO , UploadRealTimeData(Recommendation_Engine) - END10/10/2023 10:30:42 AM
+2023-10-10 10:30:44,325, [1], ERROR, Common : UploadRealTimeData: LoopCount 1 Flag:Recommendation_Engine - errorFailure sending mail.
